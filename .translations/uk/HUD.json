@@ -1,9 +1,9 @@
 {
-    "HUD_Performance_RimLight": "",
-    "HUD_Request_Ingnore": "",
-    "HUD_Slider_Value_EdgeBlur2x": "",
-    "HUD_Slider_Value_EdgeBlur4x": "",
-    "HUD_Slider_Value_Cartoon": "",
-    "HUD_Performance_ShaderQuality": "",
-    "HUD_Performance_ResourceCacheSize": ""
+    "HUD_Performance_RimLight": "Сяйво",
+    "HUD_Request_Ingnore": "Ігнорувати",
+    "HUD_Slider_Value_EdgeBlur2x": "Згладжування країв-2x",
+    "HUD_Slider_Value_EdgeBlur4x": "Згладжування країв-4x",
+    "HUD_Slider_Value_Cartoon": "Графічний стиль",
+    "HUD_Performance_ShaderQuality": "Якість шейдерів",
+    "HUD_Performance_ResourceCacheSize": "Місткість буфера"
 }
