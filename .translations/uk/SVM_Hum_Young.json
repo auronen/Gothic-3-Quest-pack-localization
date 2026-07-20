@@ -216,7 +216,7 @@
     "SVM_Hum_Young_Naive_FinishingMove": "",
     "SVM_Hum_Young_Naive_FriendLost": "",
     "SVM_Hum_Young_Naive_Friend": "",
-    "SVM_Hum_Young_Naive_GetOutOfHere": "",
+    "SVM_Hum_Young_Naive_GetOutOfHere": "Що ти тут робиш? Геть звідси!",
     "SVM_Hum_Young_Naive_GotoBed": "",
     "SVM_Hum_Young_Naive_GotoBreak": "",
     "SVM_Hum_Young_Naive_GotoDrink": "",
